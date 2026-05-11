@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @kevinchege
-- 👀 I’m interested in Backend Programming and Angular.
-- 🌱 I’m currently learning how to land rockets.
-- 💞️ I’m looking to collaborate on solutions that solve real world problems.
-- 📫 How to reach me - [Send an email to] chegekevin000@gmail.com
+* 👋 Hi, I’m @kevinchege
+* 👀 I’m interested in Backend Engineering, Distributed Systems, Angular, and Scalable Architectures.
+* 🌱 I’m currently learning AI systems, clean architecture, and advanced cloud-native development.
+* 🚴 I enjoy long-distance cycling and building products that solve real-world problems.
+* 💞️ I’m looking to collaborate on impactful software solutions, developer tools, and innovative tech products.
+* 📫 How to reach me — [chegekevin000@gmail.com](mailto:chegekevin000@gmail.com)
